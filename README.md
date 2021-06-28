@@ -1,1 +1,1 @@
-# FFTOPUP
+[{"product":"25 Diamond","price":"23"},{"product":"50 Diamond","price":"43"},{"product":"100 Diamond","price":"80"},{"product":"210 Diamond","price":"160"},{"product":"310 Diamond","price":"250"},{"product":"520 Diamond","price":"400"},{"product":"645 Diamond","price":"475"},{"product":"1080 Diamond","price":"800"},{"product":"2200 Diamond","price":"1600"},{"product":"Weekly Membership","price":"170"},{"product":"Monthly Membership","price":"640"}]
